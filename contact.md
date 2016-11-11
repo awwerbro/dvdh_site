@@ -1,7 +1,7 @@
 ---
 layout: page
 bigimg:
-  - "/img/big-imgs/jan-banner2.jpg": (c) Jan Verstraete
+  - "/img/big-imgs/Jan-banner2.jpg": (c) Jan Verstraete
   - "/img/big-imgs/Silke-sfeer9.jpg": (c) Silke De Praitere
 ---
 
