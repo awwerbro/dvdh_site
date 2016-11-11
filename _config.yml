@@ -6,9 +6,6 @@
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
 <<<<<<< HEAD
 url: "http://awwerbro.github.io/dvdh_site"
-=======
-url: "http://awwerbro.github.io"
->>>>>>> origin/master
 baseurl: "/dvdh_site"
 
 # If you are building a GitHub project page then use these settings:
