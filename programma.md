@@ -11,7 +11,7 @@ De kampdagen worden van 9 uur ’s morgens tot 8 uur ’s avonds goed gevuld met
 ---
 
 
-![placeholder](/img/programma/jeroen_instrumentaal_1.jpg)
+![placeholder]({{ site.baseurl }}/img/programma/jeroen_instrumentaal_1.jpg)
 
 ## INSTRUMENTAAL
 
@@ -20,7 +20,7 @@ Driemaal per dag wordt een uur instrumentaal ensemble ingericht, ofwel ‘grote 
 ---
 
 
-![placeholder](/img/programma/kleinegroepjes_1.jpg)
+![placeholder]({{ site.baseurl }}/img/programma/kleinegroepjes_1.jpg)
 
 ## KLEINE GROEPJES
 
@@ -29,7 +29,7 @@ In de ‘kleine groepjes’, die twee sessies van 45 minuten inhouden, worden de
 ---
 
 
-![placeholder](/img/programma/jan_volksdans_1.jpg)
+![placeholder]({{ site.baseurl }}/img/programma/jan_volksdans_1.jpg)
 
 ## VOLKSDANS
 
@@ -38,7 +38,7 @@ Tijdens de activiteit ‘Volksdans’ (ook 2 sessies van 45 minuten) worden dans
 ---
 
 
-![placeholder](/img/programma/lore_koor_1.jpg)
+![placeholder]({{ site.baseurl }}/img/programma/lore_koor_1.jpg)
 
 ## KOOR
 
