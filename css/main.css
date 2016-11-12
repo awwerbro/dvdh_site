@@ -3,7 +3,7 @@
 /* --- General --- */
 
 body {
-  font-family: 'Lora', 'Times New Roman', serif;
+  font-family: 'Corbel', 'Times New Roman', serif;
   font-size: 18px;
   color: #4F4E4A;
   position: relative;
@@ -108,7 +108,11 @@ img {
   letter-spacing: 1px;
 }
 
-.navbar-custom .navbar-brand,
+.navbar-custom .navbar-brand{
+  font-weight: 800;
+  font-size: 24px
+}
+
 .navbar-custom .nav li a {
   font-weight: 800;
   color: #404040;
