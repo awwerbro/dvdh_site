@@ -38,6 +38,6 @@ Tijdens de activiteit ‘Volksdans’ (ook 2 sessies van 45 minuten) worden dans
 
 <img style="float: left;padding-left: 10px;padding-right: 10px" src="{{ site.baseurl }}/img/programma/koor_side.jpg" width="30%">
 
-## KOOR
+### KOOR
 
 Het zou jammer zijn zo een veelheid aan stemmen niet te gebruiken om een koor in te richten: tweemaal per dag zingen we een uur lang oude en moderne werken, canons, bewerkte filmmuziek etc. <br><br>
