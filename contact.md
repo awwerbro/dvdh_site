@@ -24,6 +24,5 @@ Met vermelding van de naam van de deelnemer(s) en instrument, graag een extra ve
 * Inschrijven kan u doen nadat u de eerste brief voor het kamp heeft ontvangen.
 * Wij registreren uw inschrijving pas na ontvangst van het inschrijvingsgeld.
 * Wij aanvaarden een maximum van 50 deelnemers.
-* Wij sluiten de inschrijvingen af op 15 april/november (indien 50 deelnemers). Meer informatie volgt dan begin juni/december.
 * Annulatie door de deelnemers is enkel mogelijk tot drie weken voor de start van de muziekweek, anders slechts gedeeltelijke terugbetaling (behalve bij ziekte).
 * Door in te schrijven geef je toestemming dat foto's van het kamp voor publicitaire doeleinden gebruikt mogen worden (bijv. deze website), tenzij uitdrukkelijk anders vermeld.
