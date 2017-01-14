@@ -5,7 +5,7 @@ bigimg:
   - "/img/big-imgs/groepsfoto.jpg" : (c) Joke Puers
 ---
 
-## VOOR WIE?
+# VOOR WIE?
 
 * Minimumleeftijd: 10 jaar (de eerste inschrijving van 10-jarigen is pas mogelijk vanaf de wintermuziekweek)
 * Alle akoestische instrumenten
