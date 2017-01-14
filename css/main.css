@@ -97,7 +97,7 @@ img {
 /* --- Navbar --- */
 
 .navbar-custom {
-  background: #FAF9EB;
+  background: #F5F5F5;
   border-bottom: 1px solid #EAEAEA;
   font-family: 'Corbel', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
@@ -110,7 +110,7 @@ img {
 
 .navbar-custom .navbar-brand{
   font-weight: 800;
-  font-size: 18px
+  font-size: 24px
 }
 
 .navbar-custom .nav li a {
@@ -205,7 +205,7 @@ img {
   display: block;
   padding: 10px;
   padding-left: 30px;
-  background: #FAF9EB;
+  background: #f5f5f5;
   text-decoration: none !important;
   border-width: 0 1px 1px 1px;
   font-weight: normal;
@@ -242,9 +242,9 @@ img {
 
 footer {
   padding: 30px 0;
-  background: #FAF9EB;
+  background: #F5F5F5;
   border-top: 1px #EAEAEA solid;
-  margin-top: 20px;
+  margin-top: 50px;
   font-size: 14px;
 }
 
