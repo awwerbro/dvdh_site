@@ -20,9 +20,9 @@ BE41 7755 8211 5310
 
 Met vermelding van de naam van de deelnemer(s) en instrument, graag een extra vermelding indien de deelnemer vegetarisch wenst te eten.
 
-## OPMERKINGEN:
+## OPMERKINGEN
 * Inschrijven kan u doen nadat u de eerste brief voor het kamp heeft ontvangen.
-* **We vragen dat ieuwe deelnemers eerst een e-mail naar rikdegeyter[at]hotmail.com sturen** met vermelding van je naam, voornaam, geboortedatum, instrument, graad (of aantal jaar), en eventuele opmerkingen. Zij komen op de wachtlijst en horen dan begin april of ze mee kunnen. Pas na deze bevestiging dient het inschrijvingsgeld betaald te worden. U kan Rik altijd vrijblijvend uw vragen mailen, en ook na april kan u (uw kind) nog inschrijven.
+* **We vragen dat nieuwe deelnemers eerst een e-mail naar rikdegeyter[at]hotmail.com sturen** met vermelding van naam, voornaam, geboortedatum, instrument, graad (of aantal jaar), en eventuele opmerkingen. Zij komen op de wachtlijst en horen dan begin april of ze mee kunnen. Pas na deze bevestiging moet het inschrijvingsgeld betaald worden. U kan Rik altijd vrijblijvend uw vragen mailen, en ook na april kan u (uw kind) nog inschrijven.
 * Wij registreren uw inschrijving pas na ontvangst van het inschrijvingsgeld.
 * Wij aanvaarden een maximum van 50 deelnemers.
 * Annulatie door de deelnemers is enkel mogelijk tot drie weken voor de start van de muziekweek, anders slechts gedeeltelijke terugbetaling (behalve bij ziekte).
