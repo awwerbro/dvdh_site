@@ -12,4 +12,4 @@ De 'Dagen van de Huismuziek’ is een organisatie die tweemaal per jaar een muzi
 
 Hopelijk vind je op deze website alle informatie die je zoekt. Als je nog vragen of bedenkingen hebt, neem zeker <a href="/contact/" > contact </a> op. <a href="/img/2017zomer.pdf" target="_blank"> Hier </a> vind je de brief voor het komende zomerkamp. **Je kan trouwens nog steeds inschrijven voor deze zomer!** Tot dan!
 
-Rik, Soetkin, Louis, Jeroen, Joke, Jolien, Eva, Marie, Pieter, Charlotte en Andreas
+Rik, Soetkin, Louis, Jeroen, Joke, Jolien, Eva, Marie, Charlotte, Quinten en Andreas
