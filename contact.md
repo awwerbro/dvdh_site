@@ -7,10 +7,10 @@ bigimg:
 
 # VOLGENDE KAMP
 
-​**De 104de Dagen van de Huismuziek** gaan door van 1 augustus 2017 (16h00) tot en met 8 augustus 2017 (12h00) in Merelbeke (Domein Ten Berg). Het concert gaat eveneens door in Domein Ten Berg, op 7 augustus om 16h00.
-
-
 **De 105de Dagen van de Huismuziek** gaan door van 26 december 2016 (14h00) tot en met 31 december 2016 (12h00) in Lokeren (Domein Verloren Bos).
+
+**De 106de Dagen van de Huismuziek** gaan door van 1 augustus 2018 (16h00) tot en met 8 augustus 2018 (12h00) in Merelbeke (Domein Ten Berg). Het concert gaat eveneens door in Domein Ten Berg, op 7 augustus om 16h00.
+
 
 # HOE INSCHRIJVEN?
 
@@ -21,8 +21,8 @@ BE41 7755 8211 5310
 Met vermelding van de naam van de deelnemer(s) en instrument, graag een extra vermelding indien de deelnemer vegetarisch wenst te eten.
 
 ## OPMERKINGEN
-* Inschrijven kan u doen nadat u de eerste brief voor het kamp heeft ontvangen.
-* **We vragen dat nieuwe deelnemers eerst een e-mail naar rikdegeyter[at]hotmail.com sturen** met vermelding van naam, voornaam, geboortedatum, instrument, graad (of aantal jaar), en eventuele opmerkingen. Zij komen op de wachtlijst en horen dan begin april of ze mee kunnen. Pas na deze bevestiging moet het inschrijvingsgeld betaald worden. U kan Rik altijd vrijblijvend uw vragen mailen, en ook na april kan u (uw kind) nog inschrijven.
+* Deelnemers die al eerder meegingen kunnen inschrijven nadat ze de eerste brief voor het kamp ontvangen hebben.
+* **We vragen dat nieuwe deelnemers eerst een e-mail naar rikdegeyter[at]hotmail.com sturen** met vermelding van naam, voornaam, geboortedatum, instrument, graad (of aantal jaar), en eventuele opmerkingen. Zij komen op de wachtlijst en horen dan midden november  (voor het winterkamp) of begin april (voor het zomerkamp) of ze mee kunnen. Pas na deze bevestiging moet het inschrijvingsgeld betaald worden. U kan Rik altijd vrijblijvend uw vragen mailen, en ook na november/april kan u (uw kind) nog proberen in te schrijven.
 * Wij registreren uw inschrijving pas na ontvangst van het inschrijvingsgeld.
 * Wij aanvaarden een maximum van 50 deelnemers.
 * Annulatie door de deelnemers is enkel mogelijk tot drie weken voor de start van de muziekweek, anders slechts gedeeltelijke terugbetaling (behalve bij ziekte).
