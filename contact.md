@@ -7,9 +7,9 @@ bigimg:
 
 # VOLGENDE KAMP
 
-**De 106de Dagen van de Huismuziek** gaan door van 1 augustus 2018 (16h00) tot en met 8 augustus 2018 (12h00) in Merelbeke (Domein Ten Berg). Het concert gaat eveneens door in Domein Ten Berg, op 7 augustus om 16h00.
-
 **De 107de Dagen van de Huismuziek** gaan door van 26 december 2018 (14h00) tot en met 31 december 2018 (12h00) in Lokeren (Domein Verloren Bos).
+
+**De 108de Dagen van de Huismuziek** gaan door van 1 augustus 2019 (16h00) tot en met 8 augustus 2019 (12h00) in Merelbeke (Domein Ten Berg). Het concert gaat eveneens door in Domein Ten Berg, op 7 augustus om 16h00.
 
 # HOE INSCHRIJVEN?
 
