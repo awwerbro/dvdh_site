@@ -14,7 +14,7 @@ bigimg:
 
 # HOE INSCHRIJVEN?
 
-Door storting van het inschrijvingsgeld (€200) op de rekening:
+Door storting van het inschrijvingsgeld (€240, nieuwe prijs januari 2019) op de rekening:
 BE41 7755 8211 5310
 "Dagen van de Huismuziek"
 
