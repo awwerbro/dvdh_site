@@ -20,9 +20,13 @@ BE41 7755 8211 5310
 
 Met vermelding van de naam van de deelnemer(s) en instrument, graag een extra vermelding indien de deelnemer vegetarisch wenst te eten.
 
+Gelieve ook onderstaande vragenlijst in te vullen. U krijgt een bevestigingsmail indien de info goed is doorgekomen.
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdKqjpv8u8EJnWp01HnVCBc6kAXkATGfN-n1u4mwUqQJ02vXA/viewform?embedded=true" width="640" height="2548" frameborder="0" marginheight="0" marginwidth="0">Laden…</iframe>
+
 ## OPMERKINGEN
 * Deelnemers die al eerder meegingen kunnen inschrijven nadat ze de eerste brief voor het kamp ontvangen hebben.
-* **We vragen dat nieuwe deelnemers eerst een e-mail naar joke.puers[at]hotmail.com sturen** met vermelding van naam, voornaam, geboortedatum, instrument, graad (of aantal jaar), en eventuele opmerkingen. Zij komen op de wachtlijst en horen dan midden november  (voor het winterkamp) of begin april (voor het zomerkamp) of ze mee kunnen. Pas na deze bevestiging moet het inschrijvingsgeld betaald worden. U kan Joke altijd vrijblijvend uw vragen mailen, en ook na november/april kan u (uw kind) nog proberen in te schrijven.
+* **We vragen dat nieuwe deelnemers eerst een e-mail naar ikwilmee@dagenvandehuismuziek.be sturen** met vermelding van naam, voornaam, geboortedatum, instrument, graad (of aantal jaar), en eventuele opmerkingen. Zij komen op de wachtlijst en horen dan midden november  (voor het winterkamp) of begin april (voor het zomerkamp) of ze mee kunnen. Pas na deze bevestiging moet het inschrijvingsgeld betaald worden. U kan Joke altijd vrijblijvend uw vragen mailen, en ook na november/april kan u (uw kind) nog proberen in te schrijven.
 * Wij registreren uw inschrijving pas na ontvangst van het inschrijvingsgeld.
 * Wij aanvaarden een maximum van 50 deelnemers.
 * Annulatie door de deelnemers is enkel mogelijk tot drie weken voor de start van de muziekweek, anders slechts gedeeltelijke terugbetaling (behalve bij ziekte).
