@@ -20,9 +20,7 @@ BE41 7755 8211 5310
 
 Met vermelding van de naam van de deelnemer(s) en instrument, graag een extra vermelding indien de deelnemer vegetarisch wenst te eten.
 
-Gelieve ook onderstaande vragenlijst in te vullen. U krijgt een bevestigingsmail indien de info goed is doorgekomen.
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdKqjpv8u8EJnWp01HnVCBc6kAXkATGfN-n1u4mwUqQJ02vXA/viewform?embedded=true" width="640" height="2548" frameborder="0" marginheight="0" marginwidth="0">Laden…</iframe>
+Gelieve ook de vragenlijst onderaan deze pagina in te vullen. U krijgt een bevestigingsmail indien de info goed is doorgekomen.
 
 ## OPMERKINGEN
 * Deelnemers die al eerder meegingen kunnen inschrijven nadat ze de eerste brief voor het kamp ontvangen hebben.
@@ -31,3 +29,7 @@ Gelieve ook onderstaande vragenlijst in te vullen. U krijgt een bevestigingsmail
 * Wij aanvaarden een maximum van 50 deelnemers.
 * Annulatie door de deelnemers is enkel mogelijk tot drie weken voor de start van de muziekweek, anders slechts gedeeltelijke terugbetaling (behalve bij ziekte).
 * Door in te schrijven geeft u toestemming dat foto's van het kamp voor publicitaire doeleinden gebruikt mogen worden (bijvoorbeeld deze website), tenzij u uitdrukkelijk het tegendeel vermeldt.
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdKqjpv8u8EJnWp01HnVCBc6kAXkATGfN-n1u4mwUqQJ02vXA/viewform?embedded=true" width="640" height="2700" frameborder="0" marginheight="0" marginwidth="0">Laden…</iframe>
+
+
