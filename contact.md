@@ -20,7 +20,7 @@ BE41 7755 8211 5310
 
 Met vermelding van de naam van de deelnemer(s) en instrument, graag een extra vermelding indien de deelnemer vegetarisch wenst te eten.
 
-Gelieve ook de vragenlijst onderaan deze pagina in te vullen. U krijgt een bevestigingsmail indien de info goed is doorgekomen.
+Gelieve ook de vragenlijst onderaan deze pagina in te vullen. Indien u de vragenlijst niet ziet, probeer dan een andere browser of schakel content blocking uit. U krijgt een bevestigingsmail indien de info goed is doorgekomen.
 
 ## OPMERKINGEN
 * Deelnemers die al eerder meegingen kunnen inschrijven nadat ze de eerste brief voor het kamp ontvangen hebben.
