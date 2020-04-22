@@ -14,13 +14,9 @@ bigimg:
 
 # HOE INSCHRIJVEN?
 
-Door storting van het inschrijvingsgeld (€240, nieuwe prijs januari 2019) op de rekening:
-BE41 7755 8211 5310
-"Dagen van de Huismuziek"
+Door storting van het inschrijvingsgeld (€240, nieuwe prijs januari 2019) op de rekening BE41 7755 8211 5310 op naam van "Dagen van de Huismuziek" met vermelding van de naam van de deelnemer(s).
 
-Met vermelding van de naam van de deelnemer(s) en instrument, graag een extra vermelding indien de deelnemer vegetarisch wenst te eten.
-
-Gelieve ook de vragenlijst onderaan deze pagina in te vullen. Indien u de vragenlijst niet ziet, probeer dan een andere browser of schakel content blocking uit. U krijgt een bevestigingsmail indien de info goed is doorgekomen.
+Gelieve ook de vragenlijst onderaan deze pagina in te vullen (ook voor bestaande leden). Indien u de vragenlijst niet ziet, probeer dan een andere browser of schakel content blocking uit. U krijgt een bevestigingsmail indien de info goed is doorgekomen.
 
 ## OPMERKINGEN
 * Deelnemers die al eerder meegingen kunnen inschrijven nadat ze de eerste brief voor het kamp ontvangen hebben.
