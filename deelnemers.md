@@ -15,4 +15,4 @@ bigimg:
 
 (OPGELET: Nieuwe pianisten dienen eerst contact op te nemen met het secretariaat)
 
-Prijs: € 240 (Nieuwe prijs voor zomer 2019, alles inbegrepen - Vanaf de 3de deelnemer van hetzelfde gezin halve prijs)
+Prijs: € 240 (alles inbegrepen - Vanaf de 3de deelnemer van hetzelfde gezin halve prijs)
