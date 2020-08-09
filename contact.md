@@ -7,22 +7,21 @@ bigimg:
 
 # VOLGENDE KAMP
 
-**De 110de Dagen van de Huismuziek** gaan door van 1 augustus 2020 (16h00) tot en met 8 augustus 2020 (12h00) in Merelbeke (Domein Ten Berg). Het concert gaat eveneens door in Domein Ten Berg, op 7 augustus om 16h00. UPDATE: Voorlopig gaan we er van uit dat ons zomerkamp doorgaat. We wachten de maatregelen van de regering af. Nieuwe deelnemers: neem gerust vrijblijvend contact op: ikwilmee@dagenvandehuismuziek.be
+**De 111de Dagen van de Huismuziek** gaan door van 26 december 2020 (14h00) tot en met 31 december 2020 (12h00) in Lokeren (Domein Verloren Bos). Voorlopig gaan we er van uit dat ons winterkamp doorgaat. We wachten verdere communicatie van de regering af en houden ons aan de in december geldende maatregelen. Nieuwe deelnemers: neem gerust vrijblijvend contact op: ikwilmee@dagenvandehuismuziek.be
 
+**De 112de Dagen van de Huismuziek** gaan door van 1 augustus 2021 (16h00) tot en met 8 augustus 2020 (12h00) in Merelbeke (Domein Ten Berg). Het concert gaat eveneens door in Domein Ten Berg, op 7 augustus om 16h00. 
 
-**De 111de Dagen van de Huismuziek** gaan door van 26 december 2019 (14h00) tot en met 31 december 2019 (12h00) in Lokeren (Domein Verloren Bos).
 
 # HOE INSCHRIJVEN?
 
-Door storting van het inschrijvingsgeld (€240, nieuwe prijs januari 2019) op de rekening BE41 7755 8211 5310 op naam van "Dagen van de Huismuziek" met vermelding van de naam van de deelnemer(s).
+Door storting van het inschrijvingsgeld (€240) op de rekening BE41 7755 8211 5310 op naam van "Dagen van de Huismuziek" met vermelding van de naam van de deelnemer(s).
 
 Gelieve ook de vragenlijst onderaan deze pagina in te vullen (ook voor bestaande leden). Indien u de vragenlijst niet ziet, probeer dan een andere browser of schakel content blocking uit. U krijgt een bevestigingsmail indien de info goed is doorgekomen.
 
 ## OPMERKINGEN
-* Deelnemers die al eerder meegingen kunnen inschrijven nadat ze de eerste brief voor het kamp ontvangen hebben.
-* **We vragen dat nieuwe deelnemers eerst een e-mail naar ikwilmee@dagenvandehuismuziek.be sturen** met vermelding van naam, voornaam, geboortedatum, instrument, graad (of aantal jaar), en eventuele opmerkingen. Zij komen op de wachtlijst en horen dan midden november  (voor het winterkamp) of begin april (voor het zomerkamp) of ze mee kunnen. Pas na deze bevestiging moet het inschrijvingsgeld betaald worden. U kan Joke altijd vrijblijvend uw vragen mailen, en ook na november/april kan u (uw kind) nog proberen in te schrijven.
-* Wij registreren uw inschrijving pas na ontvangst van het inschrijvingsgeld.
-* Wij aanvaarden een maximum van 50 deelnemers.
+* **We vragen dat nieuwe deelnemers eerst een e-mail naar ikwilmee@dagenvandehuismuziek.be sturen** met vermelding van naam, voornaam, geboortedatum, instrument, graad (of aantal jaar), en eventuele opmerkingen. Pas na bevestiging van het secretariaat dat er nog plaats ismoet het inschrijvingsgeld betaald worden. U kan Joke altijd vrijblijvend uw vragen mailen.
+* Wij registreren uw inschrijving pas definitief na ontvangst van het inschrijvingsgeld.
+* Wij aanvaarden een maximum van 50 deelnemers (behoudens coronamaatregelen).
 * Annulatie door de deelnemers is enkel mogelijk tot drie weken voor de start van de muziekweek, anders slechts gedeeltelijke terugbetaling (behalve bij ziekte).
 * Door in te schrijven geeft u toestemming dat foto's van het kamp voor publicitaire doeleinden gebruikt mogen worden (bijvoorbeeld deze website), tenzij u uitdrukkelijk het tegendeel vermeldt.
 
