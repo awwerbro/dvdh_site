@@ -10,9 +10,11 @@ bigimg:
 
 De 'Dagen van de Huismuziek’ is een organisatie die tweemaal per jaar een muziekkamp organiseert voor jongeren van 10 tot 18 jaar: eentje in de zomervakantie (1-8 augustus) en eentje in de kerstvakantie (26-31 december). Inmiddels is het al 55 jaar geleden dat de 'Dagen van de Huismuziek' werden opgericht en staan er 110 kampen op de teller; een rijke historiek van sfeer en muziek is in al die jaren opgebouwd. De typische kampdag bestaat uit instrumentaal samenspel in grote en kleine groepen, koor en volksdans. Zowel klassieke als hedendaagse componisten komen aan bod, maar ook oude muziek en renaissancewerken krijgen een plaats. De cursussen staan onder de kundige leiding van ervaren muzikanten.
 
-Hopelijk vind je op deze website alle informatie die je zoekt. Als je nog vragen of bedenkingen hebt, neem zeker <a href="/contact/" > contact </a> op. Inschrijven voor het komende winterkamp (26-31 december 2020) is al mogelijk! Oud-leden krijgen voorrang t.e.m. 31 augustus om in te schrijven. Vanaf 1 september geven we ook de mogelijkheid aan nieuwe leden om in te schrijven. Aangezien we nog niet weten onder welke omstandigheden het winterkamp zal doorgaan, zal er een lijst bijgehouden worden van de volgorde waarin we de inschrijvingen hebben ontvangen. 
+Op 23 april besliste het overlegcomité om jeugdkampen tot 50 personen deze zomer toe te laten. Onze hartje versnelde meteen van lamento naar allegro vivace in alle toonaarden en we zetten ons beste beentje voor om van deze zomer een 111e editie te maken waar de vonken van afvliegen. Inschrijven voor het komende zomerkamp (1-8 augustus 2021) is dus zeker mogelijk! 
 
-Uiteraard houden wij rekening met de adviezen van de overheid rond het al dan niet doorgaan van jeugdkampen als maatregel om het coronavirus in te perken. Indien het kamp niet zou kunnen doorgaan storten wij uw inschrijvingsgeld volledig terug. Maar natuurlijk duimen we voor goed nieuws. 
+Uiteraard houden wij steeds rekening met de meest recente adviezen van de overheid rond de organisatie van jeugdkampen om het coronavirus in te perken. Indien het kamp niet zou kunnen doorgaan storten wij uw inschrijvingsgeld volledig terug. 
+
+Hopelijk vind je op deze website alle informatie die je zoekt. Als je nog vragen of bedenkingen hebt, neem zeker <a href="/contact/" > contact </a> op. 
 
 Hopelijk tot gauw!
 
