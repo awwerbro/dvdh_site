@@ -7,9 +7,9 @@ bigimg:
 
 # VOLGENDE KAMP
 
-**De 111de Dagen van de Huismuziek** gaan door van 26 december 2020 (14h00) tot en met 31 december 2020 (12h00) in Lokeren (Domein Verloren Bos). Voorlopig gaan we er van uit dat ons winterkamp doorgaat. We wachten verdere communicatie van de regering rond COVID-19 af en houden ons aan de maatregelen die geldig zijn in december. Nieuwe deelnemers: neem gerust vrijblijvend contact op: ikwilmee@dagenvandehuismuziek.be
+**De 111de Dagen van de Huismuziek** gaan door van 1 augustus 2021 (16h00) tot en met 8 augustus 2021 (12h00) in Merelbeke (Domein Ten Berg). Het concert gaat eveneens door in Domein Ten Berg, op 7 augustus om 16h00. Nieuwe deelnemers: neem gerust vrijblijvend contact op: ikwilmee@dagenvandehuismuziek.be
 
-**De 112de Dagen van de Huismuziek** gaan door van 1 augustus 2021 (16h00) tot en met 8 augustus 2021 (12h00) in Merelbeke (Domein Ten Berg). Het concert gaat eveneens door in Domein Ten Berg, op 7 augustus om 16h00. 
+**De 112de Dagen van de Huismuziek** gaan door van 26 december 2021 (14h00) tot en met 31 december 2021 (12h00) in Lokeren (Domein Verloren Bos). Voorlopig gaan we er van uit dat ons winterkamp doorgaat. 
 
 
 # HOE INSCHRIJVEN?
