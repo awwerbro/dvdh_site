@@ -18,4 +18,4 @@ Hopelijk vind je op deze website alle informatie die je zoekt. Als je nog vragen
 
 Hopelijk tot gauw!
 
-Louis, Rik, Jeroen, Joke, Quinten, Haroun, Sofie, Annelies en Andreas
+Louis, Paco, Rik, Jeroen, Joke, Quinten, Haroun, Sofie, Annelies en Andreas
