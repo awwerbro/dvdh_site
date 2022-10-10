@@ -7,9 +7,9 @@ bigimg:
 
 # VOLGENDE KAMP
 
-**De 112de Dagen van de Huismuziek** gaan door van 1 augustus 2022 (16h00) tot en met 8 augustus 2022 (12h00) in Merelbeke (Domein Ten Berg). Het concert gaat eveneens door in Domein Ten Berg, op 7 augustus om 16h00. Nieuwe deelnemers: neem gerust vrijblijvend contact op: ikwilmee@dagenvandehuismuziek.be
+**De 113e Dagen van de Huismuziek** gaan door van 26 december 2022 (14h00) tot en met 31 december 2022 (12h00) in Lokeren (Domein Verloren Bos). Nieuwe deelnemers: neem gerust vrijblijvend contact op: ikwilmee@dagenvandehuismuziek.be
 
-**De 113e Dagen van de Huismuziek** gaan door van 26 december 2022 (14h00) tot en met 31 december 2022 (12h00) in Lokeren (Domein Verloren Bos). 
+**De 114de Dagen van de Huismuziek** gaan door van 1 augustus 2023 (16h00) tot en met 8 augustus 2023 (12h00) in Merelbeke (Domein Ten Berg). Het concert gaat eveneens door in Domein Ten Berg, op 7 augustus om 16h00. 
 
 # HOE INSCHRIJVEN?
 
