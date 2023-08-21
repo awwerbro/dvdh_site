@@ -2,7 +2,6 @@
 layout: page
 bigimg:
   - "/img/big-imgs/programma/Elisa-sfeerbeeld1.jpg": (c) Elisa Lefever
-  - "/img/big-imgs/programma/Joke_111_vrijeNamiddag.jpg": (c) Joke Puers
   - "/img/big-imgs/programma/Marie_111e_volksdans.jpg": (c) Marie Ponseele
 ---
 # PROGRAMMA
