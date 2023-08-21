@@ -1,8 +1,9 @@
 ---
 layout: page
 bigimg:
-  - "/img/big-imgs/Elisa-sfeerbeeld1.jpg": (c) Elisa Lefever
-  - "/img/big-imgs/Tibo-sfeerbeeld7.jpg": (c) Tibo De Bleeckere
+  - "/img/big-imgs/programma/Elisa-sfeerbeeld1.jpg": (c) Elisa Lefever
+  - "/img/big-imgs/programma/Joke_111_vrijeNamiddag.jpg": (c) Joke Puers
+  - "/img/big-imgs/programma/Marie_111e_volksdans.jpg": (c) Marie Ponseele
 ---
 # PROGRAMMA
 
@@ -10,7 +11,7 @@ De kampdagen worden van 9 uur ’s morgens tot 8 uur ’s avonds goed gevuld met
 
 ---
 
-<img style="float: left;padding-left: 10px;padding-right: 10px" src="{{ site.baseurl }}/img/programma/instr_side.jpg" width="30%">
+<img style="float: left;padding-left: 10px;padding-right: 10px" src="{{ site.baseurl }}/img/programma/114_instrumentaal.jpg" width="30%">
 
 ### INSTRUMENTAAL
 
@@ -18,7 +19,7 @@ Driemaal per dag wordt een uur instrumentaal ensemble ingericht, ofwel ‘grote 
 
 ---
 
-<img style="float: left;padding-left: 10px;padding-right: 10px" src="{{ site.baseurl }}/img/programma/klein_side.jpg" width="30%">
+<img style="float: left;padding-left: 10px;padding-right: 10px" src="{{ site.baseurl }}/img/programma/KG_111.jpg" width="30%">
 
 ### KLEINE GROEPJES
 
@@ -26,7 +27,7 @@ In de ‘kleine groepjes’, die twee sessies van 45 minuten inhouden, worden de
 
 ---
 
-<img style="float: left;padding-left: 10px;padding-right: 10px" src="{{ site.baseurl }}/img/programma/vds_side.jpg" width="30%">
+<img style="float: left;padding-left: 10px;padding-right: 10px" src="{{ site.baseurl }}/img/programma/114_volksdans2.jpg" width="30%">
 
 ### VOLKSDANS
 
@@ -36,7 +37,7 @@ Tijdens de activiteit ‘Volksdans’ (ook 2 sessies van 45 minuten) worden dans
 
 ---
 
-<img style="float: left;padding-left: 10px;padding-right: 10px" src="{{ site.baseurl }}/img/programma/koor_side.jpg" width="30%">
+<img style="float: left;padding-left: 10px;padding-right: 10px" src="{{ site.baseurl }}/img/programma/114_koor.jpg" width="30%">
 
 ### KOOR
 

@@ -1,9 +1,9 @@
 ---
 layout: page
 bigimg:
-  - "/img/big-imgs/Lore-sfeer.jpg": (c) Lore Baeten
-  - "/img/big-imgs/Hendrik-sfeerbeeld8.jpg": (c) Hendrik Standaert
-  - "/img/big-imgs/Elisa-sfeerbeeld5.jpg": (c) Elisa Lefever
+  - "/img/big-imgs/index/111_banner_2.jpg": (c) Rik De Geyter
+  - "/img/big-imgs/index/114_banner_2.jpg": (c) Marie Ponseele
+  - "/img/big-imgs/index/113_banner.jpg": (c) Jeroen Werbrouck
 ---
 
 # OVER ONS

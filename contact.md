@@ -1,8 +1,8 @@
 ---
 layout: page
 bigimg:
-  - "/img/big-imgs/Jan-banner2.jpg": (c) Jan Verstraete
-  - "/img/big-imgs/Silke-sfeer9.jpg": (c) Silke De Praitere
+  - "/img/big-imgs/contact/111_banner.jpg": (c) Joke Puers
+  - "/img/big-imgs/Jan-banner_small.jpg": (c) Jan Verstraete
 ---
 
 # VOLGENDE KAMP

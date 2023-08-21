@@ -1,8 +1,8 @@
 ---
 layout: page
 bigimg:
-  - "/img/big-imgs/Elisa-sfeerbeeld4.jpg" : (c) Elisa Lefever
-  - "/img/big-imgs/groepsfoto.jpg" : (c) Joke Puers
+  - "/img/big-imgs/deelnemers/114_banner.jpg" : (c) Marie Ponseele
+  - "/img/big-imgs/deelnemers/Elisa-sfeerbeeld4.jpg" : (c) Elisa Lefever
 ---
 
 # VOOR WIE?
