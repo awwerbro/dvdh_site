@@ -11,7 +11,7 @@ bigimg:
 
 **De 116de Dagen van de Huismuziek** gaan door van 1 augustus 2024 (16h00) tot en met 8 augustus 2023 (12h00) in Merelbeke (Domein Ten Berg). Het concert gaat eveneens door in Domein Ten Berg, op 7 augustus om 16h00. 
 
-## !!! NIEUW VANAF DEZE WINTER !!!
+### !!! NIEUW VANAF DEZE WINTER !!!
 Neem een nieuwe deelnemer mee en krijg korting op het inschrijvingsgeld! 
 
 KORTING? WELKE KORTING?
