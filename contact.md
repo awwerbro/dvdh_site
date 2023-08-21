@@ -2,7 +2,7 @@
 layout: page
 bigimg:
   - "/img/big-imgs/contact/111_banner.jpg": (c) Joke Puers
-  - "/img/big-imgs/Jan-banner_small.jpg": (c) Jan Verstraete
+  - "/img/big-imgs/contact/Jan-banner_small.jpg": (c) Jan Verstraete
 ---
 
 # VOLGENDE KAMP

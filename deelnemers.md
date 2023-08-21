@@ -3,6 +3,7 @@ layout: page
 bigimg:
   - "/img/big-imgs/deelnemers/114_banner.jpg" : (c) Marie Ponseele
   - "/img/big-imgs/deelnemers/Elisa-sfeerbeeld4.jpg" : (c) Elisa Lefever
+  - "/img/big-imgs/deelnemers/volksdans.jpg" : (c) Soetkin De Gelaen
 ---
 
 # VOOR WIE?
