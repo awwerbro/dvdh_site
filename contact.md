@@ -7,23 +7,40 @@ bigimg:
 
 # VOLGENDE KAMP
 
-**De 114de Dagen van de Huismuziek** gaan door van 1 augustus 2023 (16h00) tot en met 8 augustus 2023 (12h00) in Merelbeke (Domein Ten Berg). Het concert gaat eveneens door in Domein Ten Berg, op 7 augustus om 16h00. 
-
 **De 115e Dagen van de Huismuziek** gaan door van 26 december 2023 (14h00) tot en met 31 december 2022 (12h00) in Lokeren (Domein Verloren Bos). Nieuwe deelnemers: neem gerust vrijblijvend contact op: ikwilmee@dagenvandehuismuziek.be
 
+**De 116de Dagen van de Huismuziek** gaan door van 1 augustus 2024 (16h00) tot en met 8 augustus 2023 (12h00) in Merelbeke (Domein Ten Berg). Het concert gaat eveneens door in Domein Ten Berg, op 7 augustus om 16h00. 
+
+## !!! NIEUW VANAF DEZE WINTER !!!
+Neem een nieuwe deelnemer mee en krijg korting op het inschrijvingsgeld! 
+
+KORTING? WELKE KORTING?
+Per nieuwe deelnemer die je aanbrengt krijg je een korting van 40 € op het inschrijvingsgeld. 
+Als je 1 lid aanbrengt betaal je zo slechts 200 €, als je 2 nieuwe leden aanbrengt 160 € enzovoort.
+
+HOE KRIJG IK DEZE KORTING?
+Volg de standaard inschrijvingsprocedure zoals hieronder beschreven, en stuur daarna een mailtje naar ikwilmee@dagenvandehuismuziek.be met de naam van de nieuwe deelnemer(s) die je aanbrengt. Van zodra de nieuwe deelnemers ingeschreven zijn, krijg je van ons een bevestigingsmailtje en wordt het kortingsbedrag teruggestort op jouw rekening.
+
+
 # HOE INSCHRIJVEN?
+Ging je kind al eerder mee op kamp? Leuk!
+Het enige dat je hoeft te doen is je kind inschrijven voor ons volgende kamp via [deze link](https://app.assistonline.eu/mvc/activity?key=5a8c9d67-0eed-4a46-a1fc-c284203bb198}). 
+
+Je zal na inschrijving automatisch doorverwezen worden naar onze digitale betaalomgeving voor de betaling van het inschrijvingsgeld.
+Wil je graag jullie persoonsgegevens in onze database nog eens controleren of wijzigen maar heb je je login niet meer? Stuur ons een mailtje via ikwilmee@dagenvandehuismuziek.be
+
+Gaat je kind voor de eerste keer mee? Ook leuk!
+Voordat je je kind kan inschrijven voor het volgende kamp, vragen we je om je kind eerst aan te sluiten bij de vzw. Dit is eenmalig en volledig kosteloos, en kan via [deze link](https://www.mijnassist.be/NL/3d894289-0304-4cb7-9e7c-07b6f9ec7c8a/waitinglist/subscribe).
+
+Eens de aansluiting van jouw kind bij de vzw goedgekeurd is, zal je een uitnodiging ontvangen om je kind in te schrijven voor het eerstvolgende kamp.
 
 Door storting van het inschrijvingsgeld (€240) op de rekening BE41 7755 8211 5310 op naam van "Dagen van de Huismuziek" met vermelding van de naam van de deelnemer(s).
 
 Gelieve ook de vragenlijst onderaan deze pagina in te vullen (ook voor bestaande leden). Indien u de vragenlijst niet ziet, probeer dan een andere browser of schakel content blocking uit. U krijgt een bevestigingsmail indien de info goed is doorgekomen.
 
 ## OPMERKINGEN
-* **We vragen dat nieuwe deelnemers eerst een e-mail naar ikwilmee@dagenvandehuismuziek.be sturen** met vermelding van naam, voornaam, geboortedatum, instrument, graad (of aantal jaar), en eventuele opmerkingen. Pas na bevestiging van het secretariaat dat er nog plaats ismoet het inschrijvingsgeld betaald worden. U kan Joke altijd vrijblijvend uw vragen mailen.
-* Wij registreren uw inschrijving pas definitief na ontvangst van het inschrijvingsgeld.
-* Wij aanvaarden een maximum van 50 deelnemers (behoudens coronamaatregelen).
-* Annulatie door de deelnemers is enkel mogelijk tot drie weken voor de start van de muziekweek, anders slechts gedeeltelijke terugbetaling (behalve bij ziekte).
-* Door in te schrijven geeft u toestemming dat foto's van het kamp voor publicitaire doeleinden gebruikt mogen worden (bijvoorbeeld deze website), tenzij u uitdrukkelijk het tegendeel vermeldt.
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdKqjpv8u8EJnWp01HnVCBc6kAXkATGfN-n1u4mwUqQJ02vXA/viewform?embedded=true" width="640" height="2700" frameborder="0" marginheight="0" marginwidth="0">Laden…</iframe>
-
+* Heb je vragen of opmerkingen? Laat het ons weten via ikwilmee@dagenvandehuismuziek.be.
+* Wij aanvaarden een maximum van 50 deelnemers per kamp (behoudens coronamaatregelen). Geen paniek: we werken met een wachtlijst, dus je kind maakt altijd kans om nog mee te kunnen, ook nadat de grens van 50 inschrijvingen bereikt is.
+* De inschrijving van je kind annuleren kan kosteloos tot 3 kalenderweken voor aanvang van het kamp, anders wordt het inschrijvingsgeld slechts voor 50% terugbetaald (behalve bij ziekte).
+* Door je kind in te schrijven voor onze kampen geef je toestemming dat foto’s van het kamp voor publicitaire doeleinden gebruikt mogen worden (bijvoorbeeld op onze website), tenzij je uitdrukkelijk het tegendeel vermeldt.
 
