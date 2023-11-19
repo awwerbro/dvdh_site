@@ -34,10 +34,6 @@ Voordat je je kind kan inschrijven voor het volgende kamp, vragen we je om je ki
 
 Eens de aansluiting van jouw kind bij de vzw goedgekeurd is, zal je een uitnodiging ontvangen om je kind in te schrijven voor het eerstvolgende kamp.
 
-Door storting van het inschrijvingsgeld (€240) op de rekening BE41 7755 8211 5310 op naam van "Dagen van de Huismuziek" met vermelding van de naam van de deelnemer(s).
-
-Gelieve ook de vragenlijst onderaan deze pagina in te vullen (ook voor bestaande leden). Indien u de vragenlijst niet ziet, probeer dan een andere browser of schakel content blocking uit. U krijgt een bevestigingsmail indien de info goed is doorgekomen.
-
 ## OPMERKINGEN
 * Heb je vragen of opmerkingen? Laat het ons weten via ikwilmee@dagenvandehuismuziek.be.
 * Wij aanvaarden een maximum van 50 deelnemers per kamp (behoudens coronamaatregelen). Geen paniek: we werken met een wachtlijst, dus je kind maakt altijd kans om nog mee te kunnen, ook nadat de grens van 50 inschrijvingen bereikt is.
