@@ -7,11 +7,11 @@ bigimg:
 
 # VOLGENDE KAMP
 
-**De 115e Dagen van de Huismuziek** gaan door van 26 december 2023 (14h00) tot en met 31 december 2022 (12h00) in Lokeren (Domein Verloren Bos). Nieuwe deelnemers: neem gerust vrijblijvend contact op: ikwilmee@dagenvandehuismuziek.be
+**De 116de Dagen van de Huismuziek** gaan door van 1 augustus 2024 (16h00) tot en met 8 augustus 2024 (12h00) in Merelbeke (Domein Ten Berg). Het concert gaat eveneens door in Domein Ten Berg, op 7 augustus om 16h00. 
 
-**De 116de Dagen van de Huismuziek** gaan door van 1 augustus 2024 (16h00) tot en met 8 augustus 2023 (12h00) in Merelbeke (Domein Ten Berg). Het concert gaat eveneens door in Domein Ten Berg, op 7 augustus om 16h00. 
+**De 117e Dagen van de Huismuziek** gaan door van 26 december 2024 (14h00) tot en met 31 december 2024 (12h00) in Lokeren (Domein Verloren Bos). Nieuwe deelnemers: neem gerust vrijblijvend contact op: ikwilmee@dagenvandehuismuziek.be
 
-### !!! NIEUW VANAF DEZE WINTER !!!
+### !!! KORTINGSACTIE !!!
 Neem een nieuwe deelnemer mee en krijg korting op het inschrijvingsgeld! 
 
 KORTING? WELKE KORTING?
@@ -24,7 +24,7 @@ Volg de standaard inschrijvingsprocedure zoals hieronder beschreven, en stuur da
 
 # HOE INSCHRIJVEN?
 Ging je kind al eerder mee op kamp? Leuk!
-Het enige dat je hoeft te doen is je kind inschrijven voor ons volgende kamp via [deze link](https://app.assistonline.eu/mvc/activity?key=5a8c9d67-0eed-4a46-a1fc-c284203bb198). 
+Het enige dat je hoeft te doen is je kind inschrijven voor ons volgende kamp via [deze link](https://app.assistonline.eu/mvc/activity?key=0c13ba99-5337-4470-9cc8-0762413b8574). 
 
 Je zal na inschrijving automatisch doorverwezen worden naar onze digitale betaalomgeving voor de betaling van het inschrijvingsgeld.
 Wil je graag jullie persoonsgegevens in onze database nog eens controleren of wijzigen maar heb je je login niet meer? Stuur ons een mailtje via ikwilmee@dagenvandehuismuziek.be
