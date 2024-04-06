@@ -17,3 +17,13 @@ Hopelijk vind je op deze website alle informatie die je zoekt. Als je nog vragen
 Hopelijk tot gauw!
 
 Louis, Paco, Jeroen, Joke, Felix, Veronica, Sofie, Marijn, Titus, Marie en Andreas
+
+# 20 april 2024: Folk Voor Volk
+’s Avonds gezellig volksdansen is een van de redenen waarom we elk kamp staan te popelen om iedereen terug te zien. Kan je zoals iedereen niet wachten tot de zomer om deze fantastische sfeer (opnieuw) op te snuiven? Geen nood!
+ 
+Wij organiseren op zaterdag 20 april ‘FOLK voor VOLK’: een folkbal georganiseerd voor (oud-)leden en sympathisanten, maar ook voor mensen die graag kennis willen maken met de Dagen van de Huismuziek. Iedereen is welkom! Naast een optreden gebracht door de leiding, worden ook twee rasechte folkgroepen uitgenodigd om jullie heel de avond te kunnen laten genieten van muzikale pareltjes. Het zijn niemand minder dan Cardboard Cabin en Marasc!
+
+Voor wie graag wil meedansen maar zich nog nooit aan volksdansen heeft gewaagd, zijn er ook 2 initiatiemomenten tussendoor. 
+
+Zin in een avond om niet rap te vergeten? Schrijf je dan zeker [hier](https://app.assistonline.eu/mvc/activity?key=aa048e2d-2331-46a4-b4ae-c037373a2d97) in. 
+Wees snel, want tickets zijn beperkt
