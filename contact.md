@@ -7,16 +7,19 @@ bigimg:
 
 # VOLGENDE KAMP
 
-**De 116de Dagen van de Huismuziek** gaan door van 1 augustus 2024 (16h00) tot en met 8 augustus 2024 (12h00) in Merelbeke (Domein Ten Berg). Het concert gaat eveneens door in Domein Ten Berg, op 7 augustus om 16h00. 
-
 **De 117e Dagen van de Huismuziek** gaan door van 26 december 2024 (14h00) tot en met 31 december 2024 (12h00) in Lokeren (Domein Verloren Bos). Nieuwe deelnemers: neem gerust vrijblijvend contact op: ikwilmee@dagenvandehuismuziek.be
+
+**De 118e Dagen van de Huismuziek** gaan door van 1 augustus 2025 (16h00) tot en met 8 augustus 2025 (12h00) in Merelbeke (Domein Ten Berg). Het concert gaat eveneens door in Domein Ten Berg, op 7 augustus om 16h00. 
+
+### Prijs
+Deelname aan het winter- of zomerkamp kost €280. 
 
 ### !!! KORTINGSACTIE !!!
 Neem een nieuwe deelnemer mee en krijg korting op het inschrijvingsgeld! 
 
 KORTING? WELKE KORTING?
-Per nieuwe deelnemer die je aanbrengt krijg je een korting van 40 € op het inschrijvingsgeld. 
-Als je 1 lid aanbrengt betaal je zo slechts 200 €, als je 2 nieuwe leden aanbrengt 160 € enzovoort.
+Per nieuwe deelnemer die je aanbrengt krijg je een korting van €40 op het inschrijvingsgeld. 
+Als je 1 lid aanbrengt betaal je zo slechts €240, als je 2 nieuwe leden aanbrengt €200 enzovoort.
 
 HOE KRIJG IK DEZE KORTING?
 Volg de standaard inschrijvingsprocedure zoals hieronder beschreven, en stuur daarna een mailtje naar ikwilmee@dagenvandehuismuziek.be met de naam van de nieuwe deelnemer(s) die je aanbrengt. Van zodra de nieuwe deelnemers ingeschreven zijn, krijg je van ons een bevestigingsmailtje en wordt het kortingsbedrag teruggestort op jouw rekening.
