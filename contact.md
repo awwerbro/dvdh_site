@@ -12,14 +12,14 @@ bigimg:
 **De 118e Dagen van de Huismuziek** gaan door van 1 augustus 2025 (16h00) tot en met 8 augustus 2025 (12h00) in Merelbeke (Domein Ten Berg). Het concert gaat eveneens door in Domein Ten Berg, op 7 augustus om 16h00. 
 
 ### Prijs
-Deelname aan het winter- of zomerkamp kost €280. 
+Deelname aan het winter- of zomerkamp kost €240. 
 
 ### !!! KORTINGSACTIE !!!
 Neem een nieuwe deelnemer mee en krijg korting op het inschrijvingsgeld! 
 
 KORTING? WELKE KORTING?
 Per nieuwe deelnemer die je aanbrengt krijg je een korting van €40 op het inschrijvingsgeld. 
-Als je 1 lid aanbrengt betaal je zo slechts €240, als je 2 nieuwe leden aanbrengt €200 enzovoort.
+Als je 1 lid aanbrengt betaal je zo slechts €200, als je 2 nieuwe leden aanbrengt €240 enzovoort.
 
 HOE KRIJG IK DEZE KORTING?
 Volg de standaard inschrijvingsprocedure zoals hieronder beschreven, en stuur daarna een mailtje naar ikwilmee@dagenvandehuismuziek.be met de naam van de nieuwe deelnemer(s) die je aanbrengt. Van zodra de nieuwe deelnemers ingeschreven zijn, krijg je van ons een bevestigingsmailtje en wordt het kortingsbedrag teruggestort op jouw rekening.
@@ -27,9 +27,9 @@ Volg de standaard inschrijvingsprocedure zoals hieronder beschreven, en stuur da
 
 # HOE INSCHRIJVEN?
 Ging je kind al eerder mee op kamp? Leuk!
-Het enige dat je hoeft te doen is je kind inschrijven voor ons volgende kamp via [deze link](https://app.assistonline.eu/mvc/activity?key=0c13ba99-5337-4470-9cc8-0762413b8574). 
+Het enige dat je hoeft te doen is je kind inschrijven voor ons volgende kamp via [deze link](https://app.assistonline.eu/mvc/activity?key=ddd8cfac-60fb-4c51-9a00-e4bd15e5e429). 
 
-Je zal na inschrijving automatisch doorverwezen worden naar onze digitale betaalomgeving voor de betaling van het inschrijvingsgeld (€280).
+Je zal na inschrijving automatisch doorverwezen worden naar onze digitale betaalomgeving voor de betaling van het inschrijvingsgeld (€240).
 Wil je graag jullie persoonsgegevens in onze database nog eens controleren of wijzigen maar heb je je login niet meer? Stuur ons een mailtje via ikwilmee@dagenvandehuismuziek.be
 
 Gaat je kind voor de eerste keer mee? Ook leuk!
