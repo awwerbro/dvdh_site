@@ -19,7 +19,7 @@ Neem een nieuwe deelnemer mee en krijg korting op het inschrijvingsgeld!
 
 KORTING? WELKE KORTING?
 Per nieuwe deelnemer die je aanbrengt krijg je een korting van €40 op het inschrijvingsgeld. 
-Als je 1 lid aanbrengt betaal je zo slechts €200, als je 2 nieuwe leden aanbrengt €240 enzovoort.
+Als je 1 lid aanbrengt betaal je zo slechts €200, als je 2 nieuwe leden aanbrengt €160 enzovoort.
 
 HOE KRIJG IK DEZE KORTING?
 Volg de standaard inschrijvingsprocedure zoals hieronder beschreven, en stuur daarna een mailtje naar ikwilmee@dagenvandehuismuziek.be met de naam van de nieuwe deelnemer(s) die je aanbrengt. Van zodra de nieuwe deelnemers ingeschreven zijn, krijg je van ons een bevestigingsmailtje en wordt het kortingsbedrag teruggestort op jouw rekening.
