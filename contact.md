@@ -28,7 +28,7 @@ Volg de standaard inschrijvingsprocedure zoals hieronder beschreven, en stuur da
 
 # HOE INSCHRIJVEN?
 Ging je kind al eerder mee op kamp? Leuk!
-Het enige dat je hoeft te doen is je kind inschrijven voor ons volgende kamp via [deze link](https://app.assistonline.eu/mvc/activity?key=ddd8cfac-60fb-4c51-9a00-e4bd15e5e429). 
+Het enige dat je hoeft te doen is je kind inschrijven voor ons volgende kamp via [deze link](https://app.assistonline.eu/mvc/activity?key=9baaaac3-8d8e-41c6-887c-7276169e23e5). 
 
 Je zal na inschrijving automatisch doorverwezen worden naar onze digitale betaalomgeving voor de betaling van het inschrijvingsgeld (€280).
 Wil je graag jullie persoonsgegevens in onze database nog eens controleren of wijzigen maar heb je je login niet meer? Stuur ons een mailtje via ikwilmee@dagenvandehuismuziek.be
