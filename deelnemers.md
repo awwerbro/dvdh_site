@@ -16,4 +16,4 @@ bigimg:
 
 (OPGELET: Nieuwe pianisten dienen eerst contact op te nemen met het secretariaat)
 
-Prijs: € 240 (Vanaf de 3de deelnemer van hetzelfde gezin halve prijs)
+Prijs: € 280 (Vanaf de 3de deelnemer van hetzelfde gezin halve prijs)
