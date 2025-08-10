@@ -37,7 +37,7 @@ De 'Dagen van de Huismuziek’ is een organisatie die tweemaal per jaar een muzi
 })();
 </script>
 
-Hopelijk vind je op deze website alle informatie die je zoekt. Als je nog vragen of bedenkingen hebt, neem zeker <a href="/contact/">contact</a> op. 
+Hopelijk vind je op deze website alle informatie die je zoekt. Als je nog vragen of bedenkingen hebt, neem zeker <a href="/contact/">contact</a> met ons op. 
 
 Hopelijk tot gauw!
 
