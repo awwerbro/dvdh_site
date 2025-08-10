@@ -7,10 +7,9 @@ bigimg:
 
 # VOLGENDE KAMP
 
-**De 118e Dagen van de Huismuziek** gaan door van 1 augustus 2025 (16h00) tot en met 8 augustus 2025 (12h00) in Merelbeke (Domein Ten Berg). Het concert gaat eveneens door in Domein Ten Berg, op 7 augustus om 16h00. 
-
 **De 119e Dagen van de Huismuziek** gaan door van 26 december 2025 (14h00) tot en met 31 december 2025 (12h00) in Lokeren (Domein Verloren Bos). Nieuwe deelnemers: neem gerust vrijblijvend contact op: ikwilmee@dagenvandehuismuziek.be
 
+**De 120e Dagen van de Huismuziek** gaan door van 1 augustus 2026 (16h00) tot en met 8 augustus 2026 (12h00) in Merelbeke (Domein Ten Berg). Het concert gaat eveneens door in Domein Ten Berg, op 7 augustus om 16h00. 
 
 ### Prijs
 Deelname aan het winter- of zomerkamp kost €280. 
@@ -28,7 +27,7 @@ Volg de standaard inschrijvingsprocedure zoals hieronder beschreven, en stuur da
 
 # HOE INSCHRIJVEN?
 Ging je kind al eerder mee op kamp? Leuk!
-Het enige dat je hoeft te doen is je kind inschrijven voor ons volgende kamp via [deze link](https://app.assistonline.eu/mvc/activity?key=9baaaac3-8d8e-41c6-887c-7276169e23e5). 
+Het enige dat je hoeft te doen is je kind inschrijven voor ons volgende kamp via [deze link](https://app.assistonline.eu/mvc/activity?key=6b8c4ec5-56a6-402e-82fb-6c645b2fe288). 
 
 Je zal na inschrijving automatisch doorverwezen worden naar onze digitale betaalomgeving voor de betaling van het inschrijvingsgeld (€280).
 Wil je graag jullie persoonsgegevens in onze database nog eens controleren of wijzigen maar heb je je login niet meer? Stuur ons een mailtje via ikwilmee@dagenvandehuismuziek.be
