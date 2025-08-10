@@ -10,9 +10,34 @@ bigimg:
 
 De 'Dagen van de Huismuziek’ is een organisatie die tweemaal per jaar een muziekkamp organiseert voor jongeren van 10 tot 18 jaar: eentje in de zomervakantie (1-8 augustus) en eentje in de kerstvakantie (26-31 december). Inmiddels is het al meer dan 60 jaar geleden dat de 'Dagen van de Huismuziek' werden opgericht en staan er 118 kampen op de teller; een rijke historiek van sfeer en muziek is in al die jaren opgebouwd. De typische kampdag bestaat uit instrumentaal samenspel in grote en kleine groepen, koor en volksdans. Zowel klassieke als hedendaagse componisten komen aan bod, maar ook oude muziek en renaissancewerken krijgen een plaats. De cursussen staan onder de kundige leiding van ervaren muzikanten.
 
-Inschrijven voor het komende winterkamp (26-31 december 2025) is al mogelijk! Neem gerust een kijkje bij <a href="/contact/" > inschrijven</a>.
+<p id="kamptekst"></p>
 
-Hopelijk vind je op deze website alle informatie die je zoekt. Als je nog vragen of bedenkingen hebt, neem zeker <a href="/contact/" > contact</a> op. 
+<script>
+(function() {
+  const now = new Date();
+  let year = now.getFullYear();
+
+  const winterStart = (y) => new Date(y, 11, 26); // december (11)
+  const zomerStart = (y) => new Date(y, 7, 1);    // augustus (7)
+
+  let tekst;
+
+  if (now < winterStart(year)) {
+    // nog vóór winterkamp dit jaar
+    tekst = `Inschrijven voor het komende winterkamp (26-31 december ${year}) is al mogelijk! Neem gerust een kijkje bij <a href="/contact/">inschrijven</a>.`;
+  } else if (now < zomerStart(year + 1)) {
+    // ná winterkamp, maar vóór zomerkamp volgend jaar
+    tekst = `Inschrijven voor het komende zomerkamp (1-8 augustus ${year + 1}) is al mogelijk! Neem gerust een kijkje bij <a href="/contact/">inschrijven</a>.`;
+  } else {
+    // ná zomerkamp volgend jaar → winterkamp volgend jaar
+    tekst = `Inschrijven voor het komende winterkamp (26-31 december ${year + 1}) is al mogelijk! Neem gerust een kijkje bij <a href="/contact/">inschrijven</a>.`;
+  }
+
+  document.getElementById('kamptekst').innerHTML = tekst;
+})();
+</script>
+
+Hopelijk vind je op deze website alle informatie die je zoekt. Als je nog vragen of bedenkingen hebt, neem zeker <a href="/contact/">contact</a> op. 
 
 Hopelijk tot gauw!
 
