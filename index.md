@@ -12,7 +12,7 @@ De 'Dagen van de Huismuziek’ is een organisatie die tweemaal per jaar een muzi
 
 Inschrijven voor het komende winterkamp (26-31 december 2025) is al mogelijk! Neem gerust een kijkje bij <a href="/contact/" > inschrijven</a>.
 
-Hopelijk vind je op deze website alle informatie die je zoekt. Als je nog vragen of bedenkingen hebt, neem zeker <a href="/contact/" > contact </a> op. 
+Hopelijk vind je op deze website alle informatie die je zoekt. Als je nog vragen of bedenkingen hebt, neem zeker <a href="/contact/" > contact</a> op. 
 
 Hopelijk tot gauw!
 
