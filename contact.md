@@ -5,7 +5,7 @@ bigimg:
   - "/img/big-imgs/contact/Jan-banner_small.jpg": (c) Jan Verstraete
 ---
 
-# VOLGENDE KAMP
+# VOLGENDE KAMPEN
 
 <div id="kampen"></div>
 
