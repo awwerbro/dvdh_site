@@ -8,9 +8,9 @@ bigimg:
 
 # OVER ONS
 
-De 'Dagen van de Huismuziek’ is een organisatie die tweemaal per jaar een muziekkamp organiseert voor jongeren van 10 tot 18 jaar: eentje in de zomervakantie (1-8 augustus) en eentje in de kerstvakantie (26-31 december). Inmiddels is het al 59 jaar geleden dat de 'Dagen van de Huismuziek' werden opgericht en staan er 117 kampen op de teller; een rijke historiek van sfeer en muziek is in al die jaren opgebouwd. De typische kampdag bestaat uit instrumentaal samenspel in grote en kleine groepen, koor en volksdans. Zowel klassieke als hedendaagse componisten komen aan bod, maar ook oude muziek en renaissancewerken krijgen een plaats. De cursussen staan onder de kundige leiding van ervaren muzikanten.
+De 'Dagen van de Huismuziek’ is een organisatie die tweemaal per jaar een muziekkamp organiseert voor jongeren van 10 tot 18 jaar: eentje in de zomervakantie (1-8 augustus) en eentje in de kerstvakantie (26-31 december). Inmiddels is het al meer dan 60 jaar geleden dat de 'Dagen van de Huismuziek' werden opgericht en staan er 118 kampen op de teller; een rijke historiek van sfeer en muziek is in al die jaren opgebouwd. De typische kampdag bestaat uit instrumentaal samenspel in grote en kleine groepen, koor en volksdans. Zowel klassieke als hedendaagse componisten komen aan bod, maar ook oude muziek en renaissancewerken krijgen een plaats. De cursussen staan onder de kundige leiding van ervaren muzikanten.
 
-Inschrijven voor het komende winterkamp (1-8 augustus 2025) is al mogelijk! Neem gerust een kijkje bij <a href="/contact/" > inschrijven </a>.
+Inschrijven voor het komende winterkamp (26-31 december 2025) is al mogelijk! Neem gerust een kijkje bij <a href="/contact/" > inschrijven </a>.
 
 Hopelijk vind je op deze website alle informatie die je zoekt. Als je nog vragen of bedenkingen hebt, neem zeker <a href="/contact/" > contact </a> op. 
 
