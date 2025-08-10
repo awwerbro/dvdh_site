@@ -66,7 +66,7 @@ bigimg:
 
   function formatKamp(k) {
     const maandNaam = (k.type === "winter") ? "december" : "augustus";
-    return `**De ${k.editie}e Dagen van de Huismuziek** gaan door van ${k.start.getDate()} ${maandNaam} ${k.start.getFullYear()} (${k.startTijd}) tot en met ${k.einde.getDate()} ${maandNaam} ${k.einde.getFullYear()} (${k.eindTijd}) in ${k.plaats}.${k.extra}`;
+    return `<strong>De ${k.editie}e Dagen van de Huismuziek</strong> gaan door van ${k.start.getDate()} ${maandNaam} ${k.start.getFullYear()} (${k.startTijd}) tot en met ${k.einde.getDate()} ${maandNaam} ${k.einde.getFullYear()} (${k.eindTijd}) in ${k.plaats}.${k.extra}`;
   }
 
   document.getElementById("kampen").innerHTML = `
