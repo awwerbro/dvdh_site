@@ -21,7 +21,7 @@ bigimg:
     return {
       editie: nr,
       type: "winter",
-      start: new Date(y, 11, 25), // december (11)
+      start: new Date(y, 11, 26), // december (11)
       einde: new Date(y, 11, 31),
       startTijd: "14h00",
       eindTijd: "12h00",
