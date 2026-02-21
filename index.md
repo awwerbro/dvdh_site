@@ -22,12 +22,13 @@ De 'Dagen van de Huismuziek’ is een organisatie die tweemaal per jaar een muzi
 
   let tekst;
 
-  if (now < winterStart(year)) {
-    // nog vóór winterkamp dit jaar
-    tekst = `Inschrijven voor het komende winterkamp (26-31 december ${year}) is al mogelijk! Neem gerust een kijkje bij <a href="/contact/">inschrijven</a>.`;
-  } else if (now < zomerStart(year + 1)) {
+  
+  if (now < zomerStart(year)) {
     // ná winterkamp, maar vóór zomerkamp volgend jaar
-    tekst = `Inschrijven voor het komende zomerkamp (1-8 augustus ${year + 1}) is al mogelijk! Neem gerust een kijkje bij <a href="/contact/">inschrijven</a>.`;
+    tekst = `Inschrijven voor het komende zomerkamp (1-8 augustus ${year}) is al mogelijk! Neem gerust een kijkje bij <a href="/contact/">inschrijven</a>.`;
+  } else if (now < winterStart(year)) {
+      // nog vóór winterkamp dit jaar
+    tekst = `Inschrijven voor het komende winterkamp (26-31 december ${year}) is al mogelijk! Neem gerust een kijkje bij <a href="/contact/">inschrijven</a>.`;
   } else {
     // ná zomerkamp volgend jaar → winterkamp volgend jaar
     tekst = `Inschrijven voor het komende winterkamp (26-31 december ${year + 1}) is al mogelijk! Neem gerust een kijkje bij <a href="/contact/">inschrijven</a>.`;
