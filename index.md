@@ -1,6 +1,7 @@
 ---
 layout: page
 bigimg:
+  - "/img/big-imgs/programma/118_groepsfoto.jpg": (c) DVDH
   - "/img/big-imgs/index/111_banner_2.jpg": (c) Rik De Geyter
   - "/img/big-imgs/index/114_banner_2.jpg": (c) Marie Ponseele
   - "/img/big-imgs/index/113_banner.jpg": (c) Jeroen Werbrouck
