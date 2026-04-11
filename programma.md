@@ -5,7 +5,9 @@ bigimg:
   - "/img/big-imgs/programma/Marie_111e_volksdans.jpg": (c) Marie Ponseele
   - "/img/big-imgs/programma/118_dans_2.jpeg": (c) DVDH
   - "/img/big-imgs/programma/118_dans_3.jpg": (c) DVDH
+
 ---
+
 # PROGRAMMA
 
 De kampdagen worden van 9 uur ’s morgens tot 8 uur ’s avonds goed gevuld met allerhande muzikale activiteiten, uiteraard doorspekt met de nodige ontspanning en een maaltijd op z’n tijd. De typische kampdag bestaat uit instrumentaal samenspel in grote en kleine groepen, volksdans en koor. We sluiten ieder kamp af met een concertje waarop we de andere leden en de ouders tonen waar we afgelopen week mee bezig geweest zijn.
