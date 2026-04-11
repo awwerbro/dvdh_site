@@ -8,6 +8,7 @@ bigimg:
   - "/img/big-imgs/index/118_buiten.jpg": (c) DVDH
   - "/img/big-imgs/index/118_zomer.jpg": (c) DVDH
   - "/img/big-imgs/index/119_winter_1.jpg": (c) DVDH
+
 ---
 
 # OVER ONS
