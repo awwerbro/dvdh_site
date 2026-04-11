@@ -3,7 +3,7 @@ layout: page
 bigimg:
   - "/img/big-imgs/programma/Elisa-sfeerbeeld1.jpg": (c) Elisa Lefever
   - "/img/big-imgs/programma/Marie_111e_volksdans.jpg": (c) Marie Ponseele
-  - "/img/big-imgs/programma/118_dans_2.jpg": (c) DVDH
+  - "/img/big-imgs/programma/118_dans_2.jpeg": (c) DVDH
   - "/img/big-imgs/programma/118_dans_3.jpg": (c) DVDH
 ---
 # PROGRAMMA
