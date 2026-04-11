@@ -29,7 +29,7 @@ In de ‘kleine groepjes’, die twee sessies van 45 minuten inhouden, worden de
 
 ---
 
-<img style="float: left;padding-left: 10px;padding-right: 10px" src="{{ site.baseurl }}/img/programma/114_volksdans2.jpg" width="30%">
+<img style="float: left;padding-left: 10px;padding-right: 10px" src="{{ site.baseurl }}/img/programma/118_volksdans.jpg" width="30%">
 
 ### VOLKSDANS
 
