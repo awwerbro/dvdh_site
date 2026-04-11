@@ -6,7 +6,6 @@ bigimg:
   - "/img/big-imgs/deelnemers/volksdans.jpg" : (c) Soetkin De Gelaen
   - "/img/big-imgs/deelnemers/118_dans.jpeg" : (c) DVDH
   - "/img/big-imgs/deelnemers/118_ijs.jpeg" : (c) DVDH
-  - "/img/big-imgs/deelnemers/118_zomer.jpg" : (c) DVDH
 
 ---
 
