@@ -4,6 +4,9 @@ bigimg:
   - "/img/big-imgs/index/111_banner_2.jpg": (c) Rik De Geyter
   - "/img/big-imgs/index/114_banner_2.jpg": (c) Marie Ponseele
   - "/img/big-imgs/index/113_banner.jpg": (c) Jeroen Werbrouck
+  - "/img/big-imgs/index/118_buiten.jpg": (c) DVDH
+  - "/img/big-imgs/index/118_zomer.jpg": (c) DVDH
+  - "/img/big-imgs/index/119_winter_1.jpg": (c) DVDH
 ---
 
 # OVER ONS
