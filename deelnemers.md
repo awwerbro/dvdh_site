@@ -8,6 +8,7 @@ bigimg:
   - "/img/big-imgs/deelnemers/118_volksdans.jpg" : (c) DVDH
   - "/img/big-imgs/deelnemers/118_dans_2.jpg" : (c) DVDH
   - "/img/big-imgs/deelnemers/118_dans_3.jpg" : (c) DVDH
+
 ---
 
 # VOOR WIE?
