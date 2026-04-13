@@ -4,7 +4,7 @@ bigimg:
   - "/img/big-imgs/contact/111_banner.jpg": (c) Joke Puers
   - "/img/big-imgs/contact/Jan-banner_small.jpg": (c) Jan Verstraete
   - "/img/big-imgs/contact/118_wandeling.jpg": (c) DVDH
-
+  - "/img/big-imgs/contact/118_zingen.jpg": (c) DVDH
 ---
 
 # VOLGENDE KAMPEN
