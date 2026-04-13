@@ -2,7 +2,7 @@
 layout: page
 bigimg:
   - "/img/big-imgs/deelnemers/Elisa-sfeerbeeld4.jpg" : (c) Elisa Lefever
-  - "/img/big-imgs/deelnemers/114_banner.jpg" : (c) Marie Ponseele
+  - "/img/big-imgs/deelnemers/117_zingen.jpg" : (c) DVDH
   - "/img/big-imgs/deelnemers/volksdans.jpg" : (c) Soetkin De Gelaen
   - "/img/big-imgs/deelnemers/118_dans.jpeg" : (c) DVDH
   - "/img/big-imgs/deelnemers/118_ijs.jpeg" : (c) DVDH
