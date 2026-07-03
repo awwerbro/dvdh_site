@@ -13,9 +13,9 @@ bigimg:
 
 <script>
 (function() {
-  const startEditie = 119; // Winter 2025 is 119e editie
+  const startEditie = 120; // Zomer 2026 is huidige editie
   const now = new Date();
-  let jaar = 2025;
+  let jaar = 2026;
   let editie = startEditie;
   let kampen = [];
 
@@ -46,7 +46,7 @@ bigimg:
   }
 
   // Bouw een lijst van kampen vooruit
-  let type = "winter";
+  let type = "zomer";
   while (kampen.length < 20) {
     if (type === "winter") {
       kampen.push(winter(jaar, editie));
