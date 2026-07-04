@@ -104,8 +104,10 @@ Voordat je je kind kan inschrijven voor het volgende kamp, vragen we je om je ki
 
 Eens de aansluiting van jouw kind bij de vzw goedgekeurd is, zal je een uitnodiging ontvangen om je kind in te schrijven voor het eerstvolgende kamp.
 
-## OPMERKINGEN
-* Heb je vragen of opmerkingen? Laat het ons weten via ikwilmee@dagenvandehuismuziek.be.
-* Wij aanvaarden een maximum van 50 deelnemers per kamp (behoudens coronamaatregelen). Geen paniek: we werken met een wachtlijst, dus je kind maakt altijd kans om nog mee te kunnen, ook nadat de grens van 50 inschrijvingen bereikt is.
+## BIJKOMEND
+* Wij aanvaarden een maximum van 50 deelnemers per kamp. Geen paniek: we werken met een wachtlijst, dus je kind maakt altijd kans om nog mee te kunnen, ook nadat de grens van 50 inschrijvingen bereikt is.
 * De inschrijving van je kind annuleren kan kosteloos tot 3 kalenderweken voor aanvang van het kamp, anders wordt het inschrijvingsgeld slechts voor 50% terugbetaald (behalve bij ziekte).
 * Door je kind in te schrijven voor onze kampen geef je toestemming dat foto’s van het kamp voor publicitaire doeleinden gebruikt mogen worden (bijvoorbeeld op onze website), tenzij je uitdrukkelijk het tegendeel vermeldt.
+
+## CONTACT
+* Heb je vragen of opmerkingen? Laat het ons weten via ikwilmee@dagenvandehuismuziek.be.
