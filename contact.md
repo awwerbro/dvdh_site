@@ -100,7 +100,7 @@ Je zal na inschrijving automatisch doorverwezen worden naar onze digitale betaal
 Wil je graag jullie persoonsgegevens in onze database nog eens controleren of wijzigen maar heb je je login niet meer? Stuur een mailtje naar ikwilmee@dagenvandehuismuziek.be
 
 Gaat je kind voor de eerste keer mee? Ook leuk!
-Voordat je je kind kan inschrijven voor het volgende kamp, vragen we je om je kind eerst aan te sluiten bij de vzw. Dit is eenmalig en volledig kosteloos, en kan via [deze link](https://nieuw.mijnassist.be/nl/3d894289-0304-4cb7-9e7c-07b6f9ec7c8a/waitinglist/add/f650de31-e68c-4251-b543-0cbe3cf3beb6).
+Voordat je je kind kan inschrijven voor het volgende kamp, vragen we je om je kind eerst aan te sluiten bij de vzw. Dit is eenmalig en volledig kosteloos, en kan via [deze link](https://nieuw.mijnassist.be/nl/3d894289-0304-4cb7-9e7c-07b6f9ec7c8a/waitinglist/add/f650de31-e68c-4251-b543-0cbe3cf3beb6). 
 
 Eens de aansluiting van jouw kind bij de vzw goedgekeurd is, zal je een uitnodiging ontvangen om je kind in te schrijven voor het eerstvolgende kamp.
 
