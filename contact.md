@@ -8,75 +8,9 @@ bigimg:
 ---
 
 # VOLGENDE KAMPEN
+De **121e Dagen van de Huismuziek** gaan door van 26 december 2026 (14h00) tot en met 31 december 2026 (12h00) in Lokeren (Domein Verloren Bos).
 
-<div id="kampen"></div>
-
-<script>
-(function() {
-  const startEditie = 120; // Zomer 2026 is huidige editie
-  const now = new Date();
-  let jaar = 2026;
-  let editie = startEditie;
-  let kampen = [];
-
-  function winter(y, nr) {
-    return {
-      editie: nr,
-      type: "winter",
-      start: new Date(y, 11, 26), // december (11)
-      einde: new Date(y, 11, 31),
-      startTijd: "14h00",
-      eindTijd: "12h00",
-      plaats: "Lokeren (Domein Verloren Bos)",
-      extra: ""
-    };
-  }
-
-  function zomer(y, nr) {
-    return {
-      editie: nr,
-      type: "zomer",
-      start: new Date(y, 7, 1), // augustus (7)
-      einde: new Date(y, 7, 8),
-      startTijd: "16h00",
-      eindTijd: "12h00",
-      plaats: "Merelbeke (Domein Ten Berg)",
-      extra: " Het concert gaat eveneens door in Domein Ten Berg, op 7 augustus om 16h00."
-    };
-  }
-
-  // Bouw een lijst van kampen vooruit
-  let type = "zomer";
-  while (kampen.length < 20) {
-    if (type === "winter") {
-      kampen.push(winter(jaar, editie));
-      jaar++;
-      type = "zomer";
-    } else {
-      kampen.push(zomer(jaar, editie));
-      editie++;
-      type = "winter";
-    }
-  }
-
-  // Zoek eerstvolgende kamp
-  let nextIndex = kampen.findIndex(k => k.start > now);
-  if (nextIndex === -1) nextIndex = 0;
-
-  const volgende = kampen[nextIndex];
-  const daarna = kampen[nextIndex + 1];
-
-  function formatKamp(k) {
-    const maandNaam = (k.type === "winter") ? "december" : "augustus";
-    return `<strong>De ${k.editie}e Dagen van de Huismuziek</strong> gaan door van ${k.start.getDate()} ${maandNaam} ${k.start.getFullYear()} (${k.startTijd}) tot en met ${k.einde.getDate()} ${maandNaam} ${k.einde.getFullYear()} (${k.eindTijd}) in ${k.plaats}.${k.extra}`;
-  }
-
-  document.getElementById("kampen").innerHTML = `
-    <p>${formatKamp(volgende)}</p>
-    <p>${formatKamp(daarna)}</p>
-  `;
-})();
-</script>
+De **122e Dagen van de Huismuziek** gaan door van 1 augustus 2027 (16h00) tot en met 8 augustus 2027 (12h00) in Merelbeke (Domein Ten Berg). Het concert gaat eveneens door in Domein Ten Berg, op 7 augustus om 16h00.
 
 ### Prijs
 Deelname aan het winter- of zomerkamp kost €280. 
@@ -94,7 +28,7 @@ Volg de standaard inschrijvingsprocedure zoals hieronder beschreven, en stuur da
 
 # HOE INSCHRIJVEN?
 Ging je kind al eerder mee op kamp? Leuk!
-Het enige dat je hoeft te doen is je kind inschrijven voor ons volgende kamp via [deze link](https://app.assistonline.eu/mvc/activity?key=5f3a76e4-56c4-46df-8846-598541a53e76). 
+Het enige dat je hoeft te doen is je kind inschrijven voor ons volgende kamp via [deze link](https://app.assistonline.eu/mvc/activity?key=11f1e797-b568-4654-8813-cb49debcfc6d). 
 
 Je zal na inschrijving automatisch doorverwezen worden naar onze digitale betaalomgeving voor de betaling van het inschrijvingsgeld (€280).
 Wil je graag jullie persoonsgegevens in onze database nog eens controleren of wijzigen maar heb je je login niet meer? Stuur een mailtje naar ikwilmee@dagenvandehuismuziek.be
